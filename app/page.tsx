@@ -16,7 +16,7 @@ export default function Home() {
           Identity: "shrey.nike@clevertap.com",
           Email: "shrey.nike@clevertap.com",
           Name: "Shrey Nike",
-          Plan: "Demo Web Inbox",
+          Plan: "Demo Web Inbox ",
         },
       });
 
